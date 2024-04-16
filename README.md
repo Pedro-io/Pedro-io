@@ -14,11 +14,5 @@ Um entusiasta de Ciência de Dados em formação na PUC Minas
 
 🌐 Se você está procurando um profissional dedicado, apaixonado por análise de dados e com sede de conhecimento, adoraria conectar-me e explorar maneiras pelas quais posso contribuir para sua equipe. Vamos construir um futuro orientado por dados juntos. 💻📊
 
-## Portfolio
 
-Explore alguns dos meus trabalhos e projetos:
-
-- 
-- 
-- 
 

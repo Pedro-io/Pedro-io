@@ -16,5 +16,5 @@ Um entusiasta de Ciência de Dados em formação na PUC Minas e DNC
 
 
 ## Projetos 
-- [Resultados em E-commerce usando Power BI](https://github.com/Pedro-io/Dashboard-Gericial-com-Power-BI.git)
+- [Dashboard Gerencial Usando Power BI](https://github.com/Pedro-io/Dashboard-Gericial-com-Power-BI.git)
 - [Utilizando Modelos de Machine Learning para Caracterização da Depressão no Brasil](https://github.com/Pedro-io/Utilizando-Modelos-de-Machine-Learning-para-Caracteriza--o-da-Depress-o-no-Brasil.git)

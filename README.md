@@ -60,9 +60,9 @@ Vamos juntos construir um futuro orientado por dados!
 
 Entre em contato para saber mais sobre como posso agregar valor à sua equipe.
 
-** Meus perfis:**
+**Meus perfis:**
 
-LinkedIn [www.linkedin.com/in/pedro-rodrigues-0b9103273]
+LinkedIn (www.linkedin.com/in/pedro-rodrigues-0b9103273)
 
 Portfólio
 Ferramentas e tecnologias:

@@ -11,7 +11,6 @@ Olá, meu nome é Pedro Henrique Rodrigues, e estou imerso no fascinante mundo d
 
 🕒 Atualmente, estou em busca de oportunidades profissionais que me permitam contribuir para o crescimento e sucesso de uma empresa, utilizando minha paixão pela Ciência de Dados. Meu horário flexível à tarde me permite dedicar tempo e energia ao desenvolvimento de soluções analíticas impactantes.
 
-🌐 Se você está procurando um profissional dedicado, apaixonado por análise de dados e com sede de conhecimento, adoraria conectar-me e explorar maneiras pelas quais posso contribuir para sua equipe. Vamos construir um futuro orientado por dados juntos. 💻📊
 
 ## **Meus perfis:**
 

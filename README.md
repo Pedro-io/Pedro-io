@@ -13,11 +13,11 @@ Um entusiasta de Ciência de Dados em formação na PUC Minas e DNC
 
 🌐 Se você está procurando um profissional dedicado, apaixonado por análise de dados e com sede de conhecimento, adoraria conectar-me e explorar maneiras pelas quais posso contribuir para sua equipe. Vamos construir um futuro orientado por dados juntos. 💻📊
 
-##**Meus perfis:**
+## **Meus perfis:**
 
 LinkedIn (www.linkedin.com/in/pedro-rodrigues-0b9103273)
 
-##Ferramentas e tecnologias:
+## Ferramentas e tecnologias:
 
 Linguagens de programação: Python, R
 Bibliotecas: Pandas, NumPy, Matplotlib, scikit-learn

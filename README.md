@@ -29,6 +29,6 @@ Bibliotecas: Pandas, NumPy, Matplotlib, scikit-learn e Seaborn
 Softwares: Excel, Visual Studio Code, MySQL WorkBench, Power BI, Metabase, Qlik Sense e Postgre SQL.
 
 ## Projetos 
-- [Utilizando Modelos de Machine Learning para Caracterização da Depressão no Brasil(Em andamento)](https://github.com/Pedro-io/Utilizando-Modelos-de-Machine-Learning-para-Caracteriza--o-da-Depress-o-no-Brasil.git)
+- [A Machine Learning Approach to Characterizing Depression in Brazilian Adult](https://github.com/Pedro-io/A-Machine-Learning-Approach-to-Characterizing-Depression-in-Brazilian-Adult.git)
 - [Utilizando Machine Learning para Identificação de Textos que Podem serm Fake News](https://github.com/Pedro-io/Usando-ML-e-Reconhecimento-de-texto-para-identificacao-e-fake-news.git)
 - [Projeto Simples para Reconhecimento de Texto utilizando Machine Learning](https://github.com/Pedro-io/reconhecendo_texto_com_machine_learning.git)

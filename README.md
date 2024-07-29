@@ -16,21 +16,14 @@ Olá, meu nome é Pedro Henrique Rodrigues, e estou imerso no fascinante mundo d
 
 LinkedIn (www.linkedin.com/in/pedro-rodrigues-0b9103273)
 
-## Ferramentas e tecnologias:
-
-Linguagens de programação: Python, R
-Bibliotecas: Pandas, NumPy, Matplotlib, scikit-learn
-Ferramentas de análise de dados: Tableau, Power BI
-Softwares: Microsoft Office Suite
-Ferramentas e tecnologias:
-
-Linguagens de programação: Python, SQL
-Bibliotecas: Pandas, NumPy, Matplotlib, scikit-learn e Seaborn
-Softwares: Excel, Visual Studio Code, MySQL WorkBench, Power BI, Metabase, Qlik Sense e Postgre SQL.
-
 ## Projetos 
 - [A Machine Learning Approach to Characterizing Depression in Brazilian Adult](https://github.com/Pedro-io/A-Machine-Learning-Approach-to-Characterizing-Depression-in-Brazilian-Adult.git)
 - [Criando um Modelo de
 Clusterização para Análise das Métricas RFV](https://github.com/Pedro-io/MODELO-DE-CLUSTERIZA--O-PARA-ANALISE-DE-M-TRICAS.git)
 - [Utilizando Machine Learning para Identificação de Textos que Podem serem Fake News](https://github.com/Pedro-io/Usando-ML-e-Reconhecimento-de-texto-para-identificacao-e-fake-news.git)
 - [Projeto Simples para Reconhecimento de Texto utilizando Machine Learning](https://github.com/Pedro-io/reconhecendo_texto_com_machine_learning.git)
+
+## Ferramentas e tecnologias:
+
+Linguagens de programação: Python, SQL.
+Ferramentas e Sofwares: Power BI, Excel, Visual Studio Code, Jupyter Notebooks, MySQL, PostgreSQL, Qlik Sense. 

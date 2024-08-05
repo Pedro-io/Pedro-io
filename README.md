@@ -14,7 +14,8 @@ Olá, meu nome é Pedro Henrique Rodrigues, e estou imerso no fascinante mundo d
 
 ## **Meus perfis:**
 
-LinkedIn (www.linkedin.com/in/pedro-rodrigues-0b9103273)
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="pedro-rodrigues-0b9103273" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/pedro-rodrigues-0b9103273?trk=profile-badge">Pedro Rodrigues</a></div>
+              
 
 ## Projetos 
 - [A Machine Learning Approach to Characterizing Depression in Brazilian Adult](https://github.com/Pedro-io/A-Machine-Learning-Approach-to-Characterizing-Depression-in-Brazilian-Adult.git)

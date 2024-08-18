@@ -21,11 +21,9 @@ Olá, meu nome é Pedro Henrique Rodrigues, e estou imerso no fascinante mundo d
 
 ## Meus perfis:
 
-<div align="center">
-  <a href="https://br.linkedin.com/in/pedro-rodrigues-0b9103273?trk=profile-badge" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-io/)](https://www.linkedin.com/in/pedro-io/)
+[![Gmail Badge](https://img.shields.io/badge/p.rodrigues2532@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:p.rodrigues2532@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Pedro-io)
 
 ## Projetos 
 

@@ -33,5 +33,6 @@ Ferramentas e Sofwares: Power BI, Excel, Visual Studio Code, Jupyter Notebooks, 
 
 
 ## ⭐ GitHub Stats
-![Pedro-io's Stats](https://github-readme-stats.vercel.app/api?username=Pedro-io&theme=dracula&show_icons=true&hide_border=false&count_private=true) ![Pedro-io's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-io&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![Pedro-io's Stats](https://github-readme-stats.vercel.app/api?username=Pedro-io&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![Pedro-io's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-io&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 

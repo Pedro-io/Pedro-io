@@ -34,7 +34,7 @@ Aqui estão alguns dos meus projetos em destaque:
 
   <div style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Pedro-io/A-Machine-Learning-Approach-to-Characterizing-Depression-in-Brazilian-Adult.git" target="_blank">
-      <img src="https://img.shields.io/badge/-Projeto 1-blueviolet?style=flat-square&logo=github&logoColor=white" alt="A Machine Learning Approach to Characterizing Depression in Brazilian Adult">
+      <img src="https://img.shields.io/badge/-Projeto 1-blueviolet?style=flat-square&logo=github&logoColor=white" alt="Projeto 1">
     </a>
     <p align="center">A Machine Learning Approach to Characterizing Depression in Brazilian Adult</p>
   </div>

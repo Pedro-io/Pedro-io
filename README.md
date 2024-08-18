@@ -31,7 +31,7 @@ Olá, meu nome é Pedro Henrique Rodrigues, e estou imerso no fascinante mundo d
 
 Aqui estão alguns dos meus projetos em destaque:
 
-<div align="center">
+
   <div style="display: inline-block; margin: 10px;">
     <a href="https://github.com/Pedro-io/A-Machine-Learning-Approach-to-Characterizing-Depression-in-Brazilian-Adult.git" target="_blank">
       <img src="https://img.shields.io/badge/-Projeto 1-blueviolet?style=flat-square&logo=github&logoColor=white" alt="Projeto 1">
@@ -59,19 +59,10 @@ Aqui estão alguns dos meus projetos em destaque:
     </a>
     <p align="center">Projeto Simples para Reconhecimento de Texto utilizando Machine Learning</p>
   </div>
-</div>
+
 
 ## Ferramentas e tecnologias:
 
 Linguagens de programação: Python, SQL.
 Ferramentas e Sofwares: Power BI, Excel, Visual Studio Code, Jupyter Notebooks, MySQL, PostgreSQL, Qlik Sense. 
-
-
-
-
-## ⭐ GitHub Stats
-![Pedro-io's Stats](https://github-readme-stats.vercel.app/api?username=Pedro-io&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-
-
-![Pedro-io's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-io&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 

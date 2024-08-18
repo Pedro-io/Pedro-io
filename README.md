@@ -27,35 +27,11 @@ Olá, meu nome é Pedro Henrique Rodrigues, e estou imerso no fascinante mundo d
 ## Projetos 
 
 Aqui estão alguns dos meus projetos em destaque:
-
-
-  <div style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Pedro-io/A-Machine-Learning-Approach-to-Characterizing-Depression-in-Brazilian-Adult.git" target="_blank">
-      <img src="https://img.shields.io/badge/-Projeto 1-blueviolet?style=flat-square&logo=github&logoColor=white" alt="Projeto 1">
-    </a>
-    <p align="center">A Machine Learning Approach to Characterizing Depression in Brazilian Adult</p>
-  </div>
-
-  <div style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Pedro-io/MODELO-DE-CLUSTERIZA--O-PARA-ANALISE-DE-M-TRICAS.git" target="_blank">
-      <img src="https://img.shields.io/badge/-Projeto 2-green?style=flat-square&logo=github&logoColor=white" alt="Projeto 2">
-    </a>
-    <p align="center">Criando um Modelo de Clusterização para Análise das Métricas RFV</p>
-  </div>
-
-  <div style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Pedro-io/Usando-ML-e-Reconhecimento-de-texto-para-identificacao-e-fake-news.git" target="_blank">
-      <img src="https://img.shields.io/badge/-Projeto 3-red?style=flat-square&logo=github&logoColor=white" alt="Projeto 3">
-    </a>
-    <p align="center">Utilizando Machine Learning para Identificação de Textos que Podem ser Fake News</p>
-  </div>
-
-  <div style="display: inline-block; margin: 10px;">
-    <a href="https://github.com/Pedro-io/reconhecendo_texto_com_machine_learning.git" target="_blank">
-      <img src="https://img.shields.io/badge/-Projeto 4-yellow?style=flat-square&logo=github&logoColor=white" alt="Projeto 4">
-    </a>
-    <p align="center">Projeto Simples para Reconhecimento de Texto utilizando Machine Learning</p>
-  </div>
+- [A Machine Learning Approach to Characterizing Depression in Brazilian Adult](https://github.com/Pedro-io/A-Machine-Learning-Approach-to-Characterizing-Depression-in-Brazilian-Adult.git)
+- [Criando um Modelo de
+Clusterização para Análise das Métricas RFV](https://github.com/Pedro-io/MODELO-DE-CLUSTERIZA--O-PARA-ANALISE-DE-M-TRICAS.git)
+- [Utilizando Machine Learning para Identificação de Textos que Podem serem Fake News](https://github.com/Pedro-io/Usando-ML-e-Reconhecimento-de-texto-para-identificacao-e-fake-news.git)
+- [Projeto Simples para Reconhecimento de Texto utilizando Machine Learning](https://github.com/Pedro-io/reconhecendo_texto_com_machine_learning.git)
 
 ## Ferramentas e tecnologias:
 

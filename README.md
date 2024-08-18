@@ -19,6 +19,8 @@ Olá, meu nome é Pedro Henrique Rodrigues, e estou imerso no fascinante mundo d
 
 ## Projetos 
 - [A Machine Learning Approach to Characterizing Depression in Brazilian Adult](https://github.com/Pedro-io/A-Machine-Learning-Approach-to-Characterizing-Depression-in-Brazilian-Adult.git)
+
+- 
 - [Criando um Modelo de
 Clusterização para Análise das Métricas RFV](https://github.com/Pedro-io/MODELO-DE-CLUSTERIZA--O-PARA-ANALISE-DE-M-TRICAS.git)
 - [Utilizando Machine Learning para Identificação de Textos que Podem serem Fake News](https://github.com/Pedro-io/Usando-ML-e-Reconhecimento-de-texto-para-identificacao-e-fake-news.git)
@@ -28,3 +30,8 @@ Clusterização para Análise das Métricas RFV](https://github.com/Pedro-io/MOD
 
 Linguagens de programação: Python, SQL.
 Ferramentas e Sofwares: Power BI, Excel, Visual Studio Code, Jupyter Notebooks, MySQL, PostgreSQL, Qlik Sense. 
+
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-io_icons=true)

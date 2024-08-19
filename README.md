@@ -16,9 +16,6 @@ Olá, meu nome é Pedro Henrique Rodrigues, e estou imerso no fascinante mundo d
 
 🌟 Movido pela curiosidade e pela busca constante por aprendizado, tenho facilidade em adquirir novos conhecimentos e me adaptar a diferentes situações. Sinto-me confortável em ambientes desafiadores, pois acredito que é nesses momentos que podemos crescer mais.
 
-🕒 Atualmente, estou em busca de oportunidades profissionais que me permitam contribuir para o crescimento e sucesso de uma empresa, utilizando minha paixão pela Ciência de Dados. Meu horário flexível à tarde me permite dedicar tempo e energia ao desenvolvimento de soluções analíticas impactantes.
-
-
 ## Meus perfis:
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-io/)](https://www.linkedin.com/in/pedro-io/)
 [![Gmail Badge](https://img.shields.io/badge/p.rodrigues2532@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:p.rodrigues2532@gmail.com)

@@ -29,6 +29,7 @@ Aqui estão alguns dos meus projetos em destaque:
 Clusterização para Análise das Métricas RFV](https://github.com/Pedro-io/MODELO-DE-CLUSTERIZA--O-PARA-ANALISE-DE-M-TRICAS.git)
 - [Utilizando Machine Learning para Identificação de Textos que Podem serem Fake News](https://github.com/Pedro-io/Usando-ML-e-Reconhecimento-de-texto-para-identificacao-e-fake-news.git)
 - [Projeto Simples para Reconhecimento de Texto utilizando Machine Learning](https://github.com/Pedro-io/reconhecendo_texto_com_machine_learning.git)
+- [Banco de Dados de Loja de Roupas - Fashion Style](https://github.com/Pedro-io/fashion-style-db.git)
 
 ## Ferramentas e tecnologias:
 

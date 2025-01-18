@@ -1,6 +1,6 @@
 ## Olá 👋, eu sou Pedro Henrique Rodrigues
 
-Estudante de Ciência de Dados em formação na PUC Minas e Escola DNC
+Estudante de Ciência de Dados em formação na PUC Minas
 
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-io&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="Pedro-io's GitHub Stats" />
   <br>
